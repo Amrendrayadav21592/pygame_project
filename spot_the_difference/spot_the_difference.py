@@ -1,4 +1,5 @@
-#Spot the difference
+#Spot the difference Game
+
 
 import pygame #pip install pygame
 
@@ -42,6 +43,7 @@ game_levels = {
 3: ('spot_the_difference_3.jpg', (0,400,1200,800), [(100,700), (900,630), (1140,690), (570, 690), (890,500), (275,570), ((365,450), (365,490), (480,480), (580,490))], 'Pool')
 
 }
+
 
 #game values
 number_of_levels = len(game_levels)
